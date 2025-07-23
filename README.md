@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Marjon Umbay!
 
-**College Instructor** | **MSc Computer Engineering Student @ Polytechnic University of the Philippines**
+**College Instructor @ UE Caloocan** | **MS Computer Engineering Student @ Polytechnic University of the Philippines**
 
 Welcome to my GitHub space! I’m passionate about teaching, technology, and lifelong learning. As a master’s student in Computer Engineering and an instructor, I strive to bridge the gap between theory and real-world application—both in the classroom and in code.
 
