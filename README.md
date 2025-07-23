@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Marjon Umbay!
 
-![Pixel art: Male coding on a tablet in a blue & green themed bedroom](pixel-art-male-coding-tablet-bedroom.png)
-
 **College Instructor** | **MSc Computer Engineering Student @ Polytechnic University of the Philippines**
 
 Welcome to my GitHub space! I’m passionate about teaching, technology, and lifelong learning. As a master’s student in Computer Engineering and an instructor, I strive to bridge the gap between theory and real-world application—both in the classroom and in code.
@@ -33,8 +31,3 @@ Check out my [LinkedIn profile](https://www.linkedin.com/in/marjonumbay/) for a 
 
 Thanks for visiting!  
 Feel free to check out my repositories or reach out if you love cats, badminton, or collaborative learning in tech!
-
----
-
-**Pixel Art Credit:**  
-_Replace `pixel-art-male-coding-tablet-bedroom.png` above with your own pixel art! Create one using [Pixel Me](https://www.pixel-me.com/) or commission an artist for a blue & green themed avatar. Upload it to your repo and update the filename if needed._
