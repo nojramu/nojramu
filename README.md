@@ -2,6 +2,8 @@
 
 **College Instructor @ UE Caloocan** | **MS Computer Engineering Student @ Polytechnic University of the Philippines**
 
+![alt text](https://github.com/nojramu/image/this.jpg)
+
 Welcome to my GitHub space! I’m passionate about teaching, technology, and lifelong learning. As a master’s student in Computer Engineering and an instructor, I strive to bridge the gap between theory and real-world application—both in the classroom and in code.
 
 ## 🚀 Skills & Interests
