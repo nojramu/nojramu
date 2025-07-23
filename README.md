@@ -26,8 +26,7 @@ Check out my [LinkedIn profile](https://www.linkedin.com/in/marjonumbay/) for a 
 
 ---
 
-> “Education is not the filling of a pail, but the lighting of a fire.”  
-> — W.B. Yeats
+> “Time is Gold ⏳️"
 
 Thanks for visiting!  
 Feel free to check out my repositories or reach out if you love cats, badminton, or collaborative learning in tech!
