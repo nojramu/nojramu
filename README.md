@@ -20,12 +20,6 @@ Check out my [LinkedIn profile](https://www.linkedin.com/in/marjonumbay/) for a 
 - Badminton enthusiast 🏸
 - Always learning & teaching—sometimes both at once!
 
-## 📫 Let’s Connect
-
-- [LinkedIn](https://www.linkedin.com/in/marjonumbay/)
-
----
-
 > “Time is Gold ⏳️"
 
 Thanks for visiting!  
